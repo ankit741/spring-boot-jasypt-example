@@ -2,7 +2,7 @@
 
 Simple jasypt integration with spring boot
 
-# encrypt
+#encrypt
 
 mvn jasypt:encrypt -Djasypt.encryptor.password=the password
 
